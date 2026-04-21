@@ -25,7 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Keep Ascending ❤️",
+        name: "Keep Ascending 🌙",
         // Activity type number (0 = Playing).
         type: 1, 
       },
@@ -89,7 +89,7 @@ export const botConfig = {
     colors: {
       // Main brand colors.
       primary: "#1E90FF", 
-      secondary: "#2F3136", 
+      secondary: "#82CAFF", 
 
       // Standard status colors for success/error/warning/info messages.
       success: "#57F287", 
